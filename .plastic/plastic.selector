@@ -1,0 +1,4 @@
+repository "Solar System@sarisiza@cloud"
+  path "/"
+    br "/main"
+    co "/main"
